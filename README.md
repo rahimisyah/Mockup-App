@@ -1,19 +1,19 @@
 # MyApp — Flutter Prototype
 
-##  Features
+## Features
 - Secure mock login system
 - Dashboard with navigation cards
 - Profile, Products, Settings screens
 - Professional UI with gradients, cards, icons
 - Fully functional logout & token persistence
 
-## 🛠 Built With
+## Built With
 - Flutter
 - SharedPreferences
 - Google Fonts 
 - Mock authentication 
 
-## ▶ How to Run
+## How to Run
 ```bash
 flutter run -d chrome
 
